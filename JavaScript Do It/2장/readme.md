@@ -60,17 +60,17 @@ live-server.html을 눌러 편집 화면을 열고, 편집 화면의 빈 공간�
 
 주소 표시줄에 나타난 127.0.0.1 숫자는 라이브 서버 확장 기능이 가상으로 만든 서버 주소이다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%205.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%205.png)
 
 라이브 서버는 소스를 수정후 저장만 해도 웹 브라우저에 결과가 그대로 반영된다.
 
 <body>태그를 찾아 태그 안에 내용을 추가해보자.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%206.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%206.png)
 
 수정 한 후 Ctrl + S를 눌러 소스를 저장 후 크롬을 확인하면 바뀐것을 확인할 수 있다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%207.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%207.png)
 
 # 3 자바스크립트 소스 작성하고 실행하기
 
@@ -90,7 +90,7 @@ HTML 문서에 자바스크립트 소스를 작성하려면 문장을 입력하�
 
 change-1.html 파일을 열어 <script> 태그의 위치를 확인해보자.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%208.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%208.png)
 
 <script> 태그 안에 자바스크립트 소스가 들어있는걸 확인이 가능하다.
 
@@ -100,7 +100,7 @@ change-1.html 파일을 열어 <script> 태그의 위치를 확인해보자.
 
 change-1.html을 열어 브라우저 화면에 나타난 ‘자바스크립트’라는 글자를 누르면 작성한 자바스크립트 소스가 적용되어 글자 색이 변경된다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%209.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%209.png)
 
 <script> 태그는 HTML 문서 어디에 있던 상관없다.
 
@@ -135,27 +135,27 @@ HTML 문서와 자바스크립트 소스를 분리하여 작합하기 위해 외
 
 js-file 폴더를 작업 폴더로 지정후 Ctrl + N을 눌러 새 문서를 만들어보자.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2010.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2010.png)
 
 만든 문서를 Ctrl + S를 눌러 js - file - 02 - js 폴더에 저장한다.
 
 그러면 탐색기에서 change.js 파일이 생긴것을 확인이 가능하다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2011.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2011.png)
 
 ### 자바스크립트 소스 코드 저장하기
 
 탐색기 화면에서 change-2.html을 누르고 <script> 태그 안에 들어 있는 자바 스크립트 소스를 드래그후 우클릭하여 [잘라내기]를 선택한다. 또는 Ctrl + X를 눌러도 된다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2012.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2012.png)
 
 그런 다음 <script> 태그와 </script> 태그를 전부 지우고 Ctrl + S를 눌러 저장한다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2013.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2013.png)
 
 그 후 change.js 파일에 잘라낸 코드를 붙여넣기 해준 후 Ctrl + S로 저장해준다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2014.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2014.png)
 
 ### js 파일과 html 파일 연결하기
 
@@ -163,13 +163,13 @@ change-2.html을 다시 열고 앞에서 완성한 change.js 파일을 HTML 문�
 
 </body> 태그 앞에 작성하면 된다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2015.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2015.png)
 
 src 속성에 입력한 **“js/change.js”**의 뜻은 **js 폴더에 저장한 change.js 파일을 현재 HTML 문서에 불러오라는 뜻**이다.
 
 라이브 서버를 사용해 change-2.html을 열어서 글자를 누르면 글자 색이 바뀐다면 잘 적용한것이다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2016.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2016.png)
 
 # 4 나의 첫 번째 자바스크립트 프로그램
 
@@ -181,13 +181,13 @@ src 속성에 입력한 **“js/change.js”**의 뜻은 **js 폴더에 저장�
 
 greeting.html 파일을 라이브 서버로 열어보자
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2017.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2017.png)
 
 열게되면 해당 화면이 나타나는데 우리는 이 파일을 수정하여 제대로 인사하는 프로그램을 만들어 볼것이다.
 
 아까 열었던 greeting.html 파일에 소스를 입력 후 Ctrl + S를 눌러 저장한다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2018.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2018.png)
 
 여기서 var name은 var을 통해서 name이라는 **변수를 선언한다는 뜻**이다.
 
@@ -197,17 +197,17 @@ greeting.html 파일을 라이브 서버로 열어보자
 
 **<b>** 태그는 bold 태그의 약자로 **글자를 굵게 표시**해주고 **<big>** 태그는 **글자를 크게 표시**해준다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2019.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2019.png)
 
 그리고 아까 열어둔 페이지로 돌아가면 이름을 입력하라는 문구가 나타난다.
 
 이 문구에 자신의 이름을 입력 한 후 [확인]을 누르면 자신의 이름을 환영한다는 사이트가 나온다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2020.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2020.png)
 
 greeting.html의 소스의 구조를 분석해보자.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2021.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2021.png)
 
 1. 1번 줄의 <!DOCTYPE html>는 HTML 문서의 시작을 알리는 HTML 태그이다.
     
@@ -228,11 +228,11 @@ greeting.html의 소스의 구조를 분석해보자.
 
 크롬 브라우저를 실행하여 주소 표시줄에 about:blank라고 입력하면 빈 창이 나오고 Ctrl + Shift + J (또는 F12)를 눌러주면 콘솔 창이 열린다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2022.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2022.png)
 
 이후 Console 창에 var age = 20; 코드를 입력후 Enter키를 입력하면 undefined가 표시된다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2023.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2023.png)
 
 콘솔에 자바스크립트 소스를 입력시 다음줄에는 결괏값을 출력하는데 오류가 없고 마땅한 출력값이 없다면 undefined를 출력한다.
 
@@ -244,21 +244,21 @@ pormpt() 함수를 실행시 사용자가 값을 입력 가능하도록 작은 �
 
 콘솔창에 prompt(); 를 입력해보자.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2024.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2024.png)
 
 prompt()를 입력시 프롬프트 창이 나타나고 해당 창에 아무 말이나 입력해보자.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2025.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2025.png)
 
 그러면 콘솔 창에서 입력한 값을 확인할 수 있다.
 
 prompt() 함수를 사용시 소괄호 내에 따움표를 사용해 원하는 문장을 넣어 프롬프트 창에 표시할 수 있다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2026.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2026.png)
 
 콘솔 창에 prompt(”이름을 입력하세요”, “윤혜진”) 코드를 입력하면 아래 사진처럼 프롬프트 창의 텍스트 필드 내 기본 값을 표시할 수 있다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2027.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2027.png)
 
 ## 알림 창으로 출력하기 - alert() 함수
 
@@ -266,7 +266,7 @@ prompt() 함수를 사용시 소괄호 내에 따움표를 사용해 원하는 �
 
 alert() 함수의 사용 방법은 소괄호 안에 원하는 내용을 따옴표로 감싸주면 된다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2028.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2028.png)
 
 ## 웹 브라우저 화면에 출력하기 - document.write() 함수
 
@@ -274,7 +274,7 @@ alert() 함수의 사용 방법은 소괄호 안에 원하는 내용을 따옴�
 
 해당 함수는 괄호 안의 내용을 크롬 브라우저 화면에 표시하는 역할을 담당한다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2029.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2029.png)
 
 document.write() 함수는 prompt() 함수와 다르게 document. 가 함수 이름 앞에 붙어있다.
 
@@ -291,7 +291,7 @@ var name = prompt("이름: ");
 console.log(name + "님, 어서오세요!");
 ```
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2030.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2030.png)
 
 ## 크롬 브라우저 콘솔로 오류 찾아내기
 
@@ -301,7 +301,7 @@ js-time.html을 크롬으로 열게되면 오류가 발생하여 화면에 아�
 
 콘솔창을 열어 확인하면 빨간색 글자로 오류 내용이 표시되어 있다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2031.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2031.png)
 
 우측 혹은 아래에 js-time.html:19를 누르면 오류가 발생한 파일로 이동한다.
 
@@ -313,7 +313,7 @@ document.write() 함수를 사용해야 하는 위치에 e를 적지 않았음�
 
 버츄얼 스튜디오 코드로 돌아가 코드를 수정하고 저장하면 프로그램이 정상 작동됨을 확인이 가능하다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%2033.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%2033.png)
 
 # 6 자바스크립트 소스를 작성할 때 지켜야 할 규칙
 
