@@ -26,7 +26,7 @@
 
 비주얼 스튜디오 코드에서 폴더 열기를 눌러 작업 폴더를 설정해준다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%201.png)
 
 위 사진은 폴더 설정을 완료한 모습이다.
 
