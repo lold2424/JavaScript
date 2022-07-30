@@ -26,13 +26,13 @@
 
 비주얼 스튜디오 코드에서 폴더 열기를 눌러 작업 폴더를 설정해준다.
 
-![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%201.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled.png)
 
 위 사진은 폴더 설정을 완료한 모습이다.
 
 만약 코드를 두가지이상 비교를 하거나 동시에 작업할 경우 보기 편하도록 하는 기능이다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%201.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%201.png)
 
 위 사진처럼 열 파일 및 코드를 우클릭하여 측면에서 열기를 누르거나 Ctrl + Enter키를 누르면 측면에 파일이 열려 동시에 작업하기 편하다.
 
@@ -44,17 +44,17 @@
 
 사용 영역에는 현재 설치된 기능이, 권장 영역에는 비주얼 스튜디오 코드에서 권장하는 기능이 나타난다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%202.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%202.png)
 
 검색 창에 Live Server를 입력하여 설치해준다.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%203.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%203.png)
 
 ### 라이브 서버 실행하기
 
 live-server.html을 눌러 편집 화면을 열고, 편집 화면의 빈 공간에 우클릭을 하여 Open with Liver Server를 눌러보자.
 
-![Untitled](2%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5%20b6d112c6b66e423aa481be7ec5eed149/Untitled%204.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/2%EC%9E%A5/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0/Untitled%204.png)
 
 그러면 크롬 부라우저 화면에 live-server.html의 실행 결과가 바로 나타난다.
 
