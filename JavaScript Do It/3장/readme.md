@@ -132,7 +132,7 @@ birthYear 변수에 할당한 값을 삭제하고 아래 코드를 입력하자.
 var birthYear = prompt("태어난 연도를 입력하세요.", "YYYY");
 ```
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%201.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%201.png)
 
 이렇게 prompt() 함수로 값을 입력받아 변수에 할당하는 방법을 ‘사용자가 값을 입력하게 한다’고 한다.
 
@@ -152,7 +152,7 @@ var birthYear = prompt("태어난 연도를 입력하세요.", "YYYY");
 
 typeof 연산자를 사용하여 어떤 자료형인지 알 수 있다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%202.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%202.png)
 
 ## 숫자형 - 정수
 
@@ -160,7 +160,7 @@ typeof 연산자를 사용하여 어떤 자료형인지 알 수 있다.
 
 다음은 정수를 변수에 저장해 typeof 연산자로 확인한 것이다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%203.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%203.png)
 
 ## 숫자형 - 실수
 
@@ -168,7 +168,7 @@ typeof 연산자를 사용하여 어떤 자료형인지 알 수 있다.
 
 typeof 연산자로 보면 정수와 마찬가지로 number를 출력한다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%204.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%204.png)
 
 자바스크립트에서 주의할 점이 있다.
 
@@ -180,7 +180,7 @@ typeof 연산자로 보면 정수와 마찬가지로 number를 출력한다.
 
 문자형은 작은따옴표나 큰따옴표로 묶은 자료를 의미한다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%205.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%205.png)
 
 큰따움표로 묶은 문자형 안에 큰따옴표로 묶은 문장을 어떻게 넣어야 할까?
 
@@ -194,7 +194,7 @@ document.write("<span class='num'>", 2022, "</span>");
 
 참(true)과 거짓(false)이라는 값을 표현하는 자료형이다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%206.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%206.png)
 
 ## undefined와 null
 
@@ -204,7 +204,7 @@ undefined은 자료형이 정의되지 않았을 때의 상태이다.
 
 null은 처음에 할당된 값이 더는 유효하지 않다는것을 의미한다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%207.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%207.png)
 
 위의 내용을 보면 알다싶이 null을 이용해 초기화 한것을 알 수 있다.
 
@@ -212,7 +212,7 @@ null은 처음에 할당된 값이 더는 유효하지 않다는것을 의미한
 
 배열을 사용하면 하나의 변수에 여러 값을 저장할 수 있다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%208.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%208.png)
 
 대괄호 안에 자료를 입력하지 않으면 빈 배열을 만들 수 있다.
 
@@ -224,13 +224,13 @@ var addValue = [];
 
 배열의 대괄호에 숫자를 입력하여 해당 칸의 값을 가져올 수 있다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%209.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%209.png)
 
 ## 객체
 
 객체는 여러 자료를 중괄호로 묶을 수 있다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2010.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2010.png)
 
 배열과 비슷하다고 볼 수 있겠으나 키와 값을 콜론을 사용해 한쌍으로 짝지어야 한다는점에서 다르다.
 
@@ -283,11 +283,11 @@ currentYear - birthYear + 1
 
 ### 사칙 연산자 이해하기
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2011.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2011.png)
 
 ### 나머지 연산자 이해하기
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2012.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2012.png)
 
 15를 2로 나누면 몫은 7이고, 나머지는 1이 나온다.
 
