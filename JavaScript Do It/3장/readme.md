@@ -297,15 +297,15 @@ currentYear - birthYear + 1
 
 증감 연산자는 증가 연산자(++)와 감소 연산자(—)를 함께 부르는 말이다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2013.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2013.png)
 
 증감 연산자는 다른 연산자와 함께 사용이 가능하다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2014.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2014.png)
 
 증감 연산자는 피연산자 앞에 붙일 수도 있고 뒤에 붙일 수도 있다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2015.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2015.png)
 
 증감 연산자가 뒤에 있을경우 전체 수식의 처리가 끝난 다음 적용된다.
 
@@ -330,7 +330,7 @@ bargain.html을 열어 </body>태그 앞에 아래 코드를 입력하자.
 
 코드를 입력하고 저장한 뒤 실행하면 아래와 같이 동작하는것을 확인할 수 있다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2016.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2016.png)
 
 ## 입력 상자에 입력한 값 받아 오기
 
@@ -351,7 +351,7 @@ input 태그에 있는 값을 아래 코드로 수정하자
 	</script>
 ```
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2017.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2017.png)
 
 사칙연산자를 응용하여 프로그램을 개선해보자
 
@@ -369,15 +369,15 @@ input 태그에 있는 값을 아래 코드로 수정하자
 	</script>
 ```
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2018.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2018.png)
 
 # 4 연산자 깊게 알아보기
 
 ## 할당 연산자 응용하기
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2019.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2019.png)
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2020.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2020.png)
 
 위 그림 두개의 수식은 서로 동일하다.
 
@@ -393,7 +393,7 @@ input 태그에 있는 값을 아래 코드로 수정하자
 
 ## 더하기 연산자와 연결 연산자 구별하기
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2021.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2021.png)
 
 위 그림에서 보다싶이 문자열을 더하기로 연결해줄수있다.
 
@@ -401,11 +401,11 @@ input 태그에 있는 값을 아래 코드로 수정하자
 
 ## 문자형과 숫자형의 연산 이해하기
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2022.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2022.png)
 
 위 그림에서 숫자형 자료와 문자형 자료를 더했더니 “10050”으로 연결 연산자로 사용된것을 확인할 수 있다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2023.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2023.png)
 
 위 그림에서는 마이너스 연산자를 사용해보니 산술 연산자로 작동하는것을 확인할 수 있다.
 
@@ -413,7 +413,7 @@ input 태그에 있는 값을 아래 코드로 수정하자
 
 곱하기나 나누기, 나머지연산은 **문자형 자료를 모두 숫자로 자동 인식한다.**
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2024.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2024.png)
 
 ## 비교 연산자 알아보기
 
@@ -421,19 +421,19 @@ input 태그에 있는 값을 아래 코드로 수정하자
 
 ### ==와 ≠연산자
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2025.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2025.png)
 
 위 그림에서 비교연산자를 사용하면 참 거짓을 확인이 가능하다.
 
 ### <와 ≤, >와 ≥ 연산자
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2026.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2026.png)
 
 위 그림에서 연산자를 사용시 크기를 비교가 가능하다는게 확인할 수 있다.
 
 ### == 연산자와 === 연산자
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2027.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2027.png)
 
 위 그림에서 비교 연산자인 == 과 === 연산자의 차이를 알 수 있다.
 
@@ -447,19 +447,19 @@ input 태그에 있는 값을 아래 코드로 수정하자
 
 논리 연산자는 부울 연산자 또는 불리언 연산자라고 불리운다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2028.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2028.png)
 
 위 그림은 OR 연산자인 ||를 사용한 모습이다.
 
 OR 연산자는 왼쪽과 오른쪽 중 하나만 참이면 true로 처리한다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2029.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2029.png)
 
 위 그림은 AND 연산자인 &&를 사용한 모습이다.
 
 AND 연산자는 왼쪽과 오른쪽 모두가 참이면 true로 처리한다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled%2030.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled%2030.png)
 
 위 그림은 NOT 연산자인 !를 사용한 모습이다.
 
