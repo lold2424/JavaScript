@@ -120,7 +120,7 @@ document.querySelector("#result").innerHTML = "당신의 나이는 " + age + "�
 
 이제 라이브 서버로 실행하면 변수 age값이 출력되는것을 확인할 수 있다.
 
-![Untitled](3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A1%20a1bdb5ab95144f23adb5412d5285fbb4/Untitled.png)
+![Untitled](https://github.com/lold2424/JavaScript/blob/main/JavaScript%20Do%20It/3%EC%9E%A5/3%EC%9E%A5%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%97%B0%EC%82%B0%EC%9E%90/Untitled.png)
 
 ### 사용자 입력값 변수에 할당받기
 
